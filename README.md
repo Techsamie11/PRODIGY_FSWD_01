@@ -10,6 +10,6 @@ technologies used : JSP, JDBC, PostgreSQL, HTML, CSS, Bootstrap<br>
 <b><h2>Purpose:</b></h2> Secure verification of user identity before granting system access
 <br>
 <b><h2>Team Size:</b></h2> 1 (Individual Project)<br>
-<h2><b>Conclusion</b></h2>
+<h2><b>Conclusion</b></h2> 
 The Secure User Authentication System effectively verifies user identity before granting access, ensuring system security. The project provided hands-on experience with JSP, JDBC, PostgreSQL, and frontend technologies, strengthening understanding of full-stack development and authentication mechanisms.<br><br>
 Thank you for reviewing my internship task submission.
